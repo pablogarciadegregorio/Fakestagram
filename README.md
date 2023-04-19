@@ -1,2 +1,2 @@
 # Fakestagram
-Proyecto falso instagram sencillo
+Proyecto falso instagram sencillo  con FLEX
